@@ -1,0 +1,15 @@
+items manage
+-----------
+create resource route
+create controller( --resource)
+show route list (route:list)
+create blades(4 for get methods)
+call specified view from method
+/////////////
+use store method (form action)
+  -dd()
+  -validation
+  -if inclued image,
+  -data insert->(index)
+
+show in database
